@@ -10,17 +10,17 @@
 /* Changes DISCORD Text on top back to the old version (AKA The better one) */
 @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/wordmark.css');
 /* Slider to the ABOUT ME page on the profile popout */
-@import url('https://gyrotwistcodes.github.io/Nonce/Components/AboutSlider.css');
+@import url('https://gyrotwistcodes.github.io/NonceLight/Components/AboutSlider.css');
 /*Removes the "SET SERVER NICKNAME" Field under your user pop out */
-@import url('https://gyrotwistcodes.github.io/Nonce/Components/RemoveSSN.css');
+@import url('https://gyrotwistcodes.github.io/NonceLight/Components/RemoveSSN.css');
 /*Removes that notice that says the CTRL + K that is pretty damn dannoying*/
-@import url('https://gyrotwistcodes.github.io/Nonce/Components/RemoveChannelNotice.css');
+@import url('https://gyrotwistcodes.github.io/NonceLight/Components/RemoveChannelNotice.css');
 /*Remove The tips when creating a server*/
-@import url('https://gyrotwistcodes.github.io/Nonce/Components/RemoveServerTips.css');
+@import url('https://gyrotwistcodes.github.io/NonceLightLight/Components/RemoveServerTips.css');
 /* Minimize Search bar when not hovering*/
-@import url('https://gyrotwistcodes.github.io/Nonce/Components/SearchBarMinimize.css');
+@import url('https://gyrotwistcodes.github.io/NonceLight/Components/SearchBarMinimize.css');
 /* Clear Up the text bar */
-@import url('https://gyrotwistcodes.github.io/Nonce/Components/CleanerChatBar.css');
+@import url('https://gyrotwistcodes.github.io/NonceLight/Components/CleanerChatBar.css');
 
 @keyframes rainbow {
     0%    {color: #ff0000}
