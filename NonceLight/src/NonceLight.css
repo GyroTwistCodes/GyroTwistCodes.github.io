@@ -22,7 +22,7 @@
 /* Clear Up the text bar */
 @import url('https://gyrotwistcodes.github.io/NonceLight/Components/CleanerChatBar.css');
 
-@keyframes rainbow {
+/* @keyframes rainbow {
     0%    {color: #ff0000}
     12%   {color: #ffbf00}
     25%   {color: #80ff00}
@@ -46,4 +46,4 @@
 .name-1jkAdW
 {
     animation: rainbow 5s linear 0s infinite normal;
-}
+} */
