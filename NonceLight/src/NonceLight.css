@@ -22,10 +22,9 @@
 /* Clear Up the text bar */
 @import url('https://gyrotwistcodes.github.io/NonceLight/Components/CleanerChatBar.css');
 
-/* Usernames */
-.username-1A8OIy,
-/* Text */
-.markup-2BOw-j {
+.wrapper-3WhCwL, 
+.icon-1DeIlz,
+.name-1jkAdW {
   animation: rainbow 5s linear 0s infinite normal
 }
 @keyframes rainbow {
