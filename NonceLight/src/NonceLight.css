@@ -22,23 +22,3 @@
 /* Clear Up the text bar */
 @import url('https://gyrotwistcodes.github.io/NonceLight/Components/CleanerChatBar.css');
 
-.username-2b1r56,
-.listItem-GuPuDH,
-.wordmarkWindows-1v0lYD,
-.wrapper-3WhCwL,
-.content-3YMskv, 
-.icon-1DeIlz,
-.name-1jkAdW {
-  animation: rainbow 5s linear 0s infinite normal
-}
-@keyframes rainbow {
-    0%    {color: #ff0000}
-    12%   {color: #ffbf00}
-    25%   {color: #80ff00}
-    37%   {color: #00ff40}
-    50%   {color: #00ffff}
-    62%   {color: #0040ff}
-    75%   {color: #8000ff}
-    87%   {color: #eb34bd}
-    100%  {color: #ff0000}
-}
